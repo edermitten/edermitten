@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently studying **Computer Programming** at Georgian College
 
-- 🌱 I’m currently learning **REACT**
+- 🌱 I’m currently learning **REACT** on my own
 
 - 👯 I’m looking to collaborate on **a Coop or junior developer position**
 
