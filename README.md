@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=edermitten&label=Profile%20views&color=0e75b6&style=flat" alt="edermitten" /> </p>
 
-- 🔭 I'm a junior developer, designer and 2nd year college student. I'm interested in front and backend development and I work on random projects in my free time; I’m currently studying **Computer Programming** at Georgian College
+- 🔭I'm a junior developer and designer passionate about front and backend development. I enjoy working on random projects in my free time and have completed my Computer Programming studies at Georgian College.
 - 🌱 I’m currently learning **REACT** on my own
 - 👯 I’m looking to collaborate on **junior developer position**
 - 📫 How to reach me **edermitten@gmail.com**
