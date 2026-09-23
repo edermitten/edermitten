@@ -4,8 +4,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=edermitten&label=Profile%20views&color=0e75b6&style=flat" alt="edermitten" /> </p>
 
 - 🔭I'm a junior developer and designer passionate about front and backend development. I enjoy working on random projects in my free time and have completed my Computer Programming studies at Georgian College.
-- 🌱 I’m currently learning **REACT** on my own
-- 👯 I’m looking to collaborate on **junior developer position**
+- 🌱 Currently sharpening my Python skills
+- 👯 I’m looking to collaborate on **junior developer positions**
 - 📫 How to reach me **edermitten@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
